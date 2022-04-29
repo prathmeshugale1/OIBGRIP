@@ -1,2 +1,2 @@
-# OIBSIP
+# OIBGRIP
 Landing Page
